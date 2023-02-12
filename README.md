@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" align="center" style="width: 100%" />
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://media.giphy.com/media/8hYQgBIIHkCPjRTmai/giphy.gif)" align="center" style="width: 100%" />
 </div>  
   
 
@@ -79,7 +79,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3127irmkpj45zdzm4ylhxwfiyehy&cover_image=true&theme=default&show_offline=false&background_color=003780&bar_color=09ff00&bar_color_cover=true" /></div>  
 
 <br/>  
 
