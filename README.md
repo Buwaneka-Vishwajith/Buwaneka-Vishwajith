@@ -38,6 +38,7 @@
 
 </td><td valign="top" width="33%">
 
+### **<div align="center">Hello there!😀</div>**  
 
 
 </td></tr></table>  
@@ -79,7 +80,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3127irmkpj45zdzm4ylhxwfiyehy&cover_image=true&theme=default&show_offline=false&background_color=003780&bar_color=09ff00&bar_color_cover=true" /></div>  
+  
 
 <br/>  
 
