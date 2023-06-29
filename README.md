@@ -1,6 +1,6 @@
 [![MasterHead](https://media.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Buwaneka Vishwajith</h1>
-<h3 align="center">Engineering u.g | Professional video editor</h3>
+<h3 align="center">Computer Science u.g.| Professional video editor</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif">
 
 
