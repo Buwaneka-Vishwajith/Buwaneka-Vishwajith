@@ -3,17 +3,9 @@
 <h3 align="center">Computer Science u.g.| Professional video editor</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buwanekavishwajith&label=Profile%20views&color=0e75b6&style=flat" alt="buwanekavishwajith" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buwanekavishwajith" alt="buwanekavishwajith" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/buwanekaonline" target="blank"><img src="https://img.shields.io/twitter/follow/buwanekaonline?logo=twitter&style=for-the-badge" alt="buwanekaonline" /></a> </p>
 
 - 📫 How to reach me **buwaneka10000@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
