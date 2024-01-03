@@ -1,7 +1,7 @@
 [![MasterHead](https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Buwaneka Vishwajith</h1>
 <h3 align="center">Computer Science u.g.| Professional video editor</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/rzeWnbH8Uc5Y4/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif">
 
 
 - 📫 How to reach me **buwaneka10000@gmail.com**
