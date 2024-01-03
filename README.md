@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/c1/fc/9d/c1fc9d7f6ae08d56f2b84e81799790a5.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Buwaneka Vishwajith</h1>
 <h3 align="center">Computer Science u.g.| Professional video editor</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif">
