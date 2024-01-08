@@ -4,9 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif">
 
 
-- 📫 How to reach me **buwaneka10000@gmail.com**
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="arduino" width="40" height="40"/>   buwaneka10000@gmail.com </a> </p>
+How to reach me **buwaneka10000@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
