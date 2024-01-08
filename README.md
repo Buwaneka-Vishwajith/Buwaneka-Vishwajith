@@ -10,10 +10,10 @@ How to reach me **buwaneka10000@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/buwanekaonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buwanekaonline" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/buwaneka-vishwajith-645378206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buwaneka-vishwajith-645378206" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/buwaneka-vishwajith-645378206" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="buwaneka-vishwajith-645378206" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22067867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22067867" height="30" width="40" /></a>
 <a href="https://fb.com/buwaneka.senarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="buwaneka.senarathne" height="30" width="40" /></a>
-<a href="https://instagram.com/iambuwaneka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iambuwaneka" height="30" width="40" /></a>
+<a href="https://instagram.com/iambuwaneka" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="iambuwaneka" height="30" width="40" /></a>
 <a href="https://medium.com/@buwaneka10000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@buwaneka10000" height="30" width="40" /></a>
 </p>
 
