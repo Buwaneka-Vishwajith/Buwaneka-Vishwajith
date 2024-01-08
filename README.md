@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **buwaneka10000@gmail.com**
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="arduino" width="40" height="40"/> **buwaneka10000@gmail.com** </a> </p>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="arduino" width="40" height="40"/>   buwaneka10000@gmail.com </a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
