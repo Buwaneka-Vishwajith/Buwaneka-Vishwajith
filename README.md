@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif">
 
 
-How to reach me **buwaneka10000@gmail.com**
+How to reach me **buwaneka10000@gmail.com** <br>
 Currently learning MERN stack
 
 
