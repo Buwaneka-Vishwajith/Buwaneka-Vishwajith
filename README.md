@@ -5,7 +5,7 @@
 
 
 How to reach me **buwaneka10000@gmail.com** <br>
-Currently learning MERN stack
+
 
 
 <h3 align="left">Connect with me:</h3>
