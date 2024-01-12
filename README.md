@@ -57,7 +57,7 @@ How to reach me **buwaneka10000@gmail.com** <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Buwaneka-Vishwajith&show_icons=true&locale=en&layout=compact" /></p> 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Buwaneka-Vishwajith&" alt="Buwaneka-Vishwajith" /></p> -->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Buwaneka-Vishwajith&" alt="Buwaneka-Vishwajith" /></p> 
 
 
 
