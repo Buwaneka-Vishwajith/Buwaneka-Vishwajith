@@ -1,4 +1,5 @@
 <!--[![MasterHead](https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif)](https://rishavchanda.io) -->
+<!-- The masterhead is been removed -->
 <h1 align="center">Hola, I'm Buwaneka :) </h1>
 <h3 align="center">I code things </> </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif">
