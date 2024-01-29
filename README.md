@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif)](https://rishavchanda.io) -->
 <!-- The masterhead has been removed -->
-<h1 align="center">Hola, I'm Buwaneka :) </h1>
+<h1 align="center">Hi, I'm Buwaneka :) </h1>
 <h3 align="center">I code things </> </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif">
 
@@ -10,7 +10,7 @@ Currently learning MERN
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/buwanekaonline" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="buwanekaonline" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/buwaneka-vishwajith-645378206" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="buwaneka-vishwajith-645378206" height="30" width="40" /></a>
@@ -20,7 +20,7 @@ Currently learning MERN
 <a href="https://medium.com/@buwaneka10000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@buwaneka10000" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Tech Stack:</h2>
+<h1 align="left">Tech Stack:</h1>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
