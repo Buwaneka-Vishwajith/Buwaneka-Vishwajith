@@ -6,7 +6,7 @@
 
 
 How to reach me **buwaneka10000@gmail.com** <br>
-Currently learning MERN
+Currently learning Reactjs
 
 
 
