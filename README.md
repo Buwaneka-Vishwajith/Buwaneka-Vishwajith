@@ -15,7 +15,6 @@ How to reach me **buwaneka10000@gmail.com** <br>
 <a href="https://twitter.com/buwanekaonline" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="buwanekaonline" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/buwaneka-vishwajith-645378206" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="buwaneka-vishwajith-645378206" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22067867" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StackOverflow-Dark.svg" alt="22067867" height="30" width="40" /></a>
-<a href="https://fb.com/buwaneka.senarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="buwaneka.senarathne" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vish.code" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="iambuwaneka" height="30" width="40" /></a>
 <a href="https://medium.com/@buwaneka10000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@buwaneka10000" height="30" width="40" /></a>
 </p>
@@ -51,7 +50,9 @@ How to reach me **buwaneka10000@gmail.com** <br>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" alt="visual studio" width="40" height="40"/> </a></p>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" alt="visual studio" width="40" height="40"/></a>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="visual studio" width="40" height="40"/>
+</p>
 
 
 
