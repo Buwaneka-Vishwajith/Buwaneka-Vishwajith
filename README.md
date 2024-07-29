@@ -2,9 +2,7 @@
 <!-- The masterhead has been removed -->
 <h1 align="center">Hello </h1>
 <h3 align="center">A guy with a laptop </h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/64/33/c9/6433c96668669f39f0171ef478e3eb29.gif
-">
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif">
 
 How to reach me **buwaneka10000@gmail.com** <br>
 
