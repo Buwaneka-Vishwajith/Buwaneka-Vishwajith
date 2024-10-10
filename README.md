@@ -58,7 +58,7 @@ How to reach me **buwaneka10000@gmail.com** <br>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Buwaneka-Vishwajith&show_icons=true&locale=en" alt="Buwaneka-Vishwajith" /></p> -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Buwaneka-Vishwajith&show_icons=true&locale=en&layout=compact" /></p> 
+
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFiMWJtcjExM2MzZHhwN29oZmk5YnRxNmxxdGRrNjQyMG9ucHkydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9tZc9Mzo9K0yOYx38U/giphy.gif">
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Buwaneka-Vishwajith&" alt="Buwaneka-Vishwajith" /></p> --> 
