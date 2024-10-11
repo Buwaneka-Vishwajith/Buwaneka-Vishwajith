@@ -2,11 +2,12 @@
 <!-- The masterhead has been removed -->
 <!--<h1 align="center">A guy with a laptop </h1>-->
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+guy+with+a+laptop" alt="Typing SVG">
   </a>
-</div>
+</p>
+
 
 
 <!-- <h3 align="center">A guy with a laptop </h3> -->
