@@ -2,7 +2,12 @@
 <!-- The masterhead has been removed -->
 <!--<h1 align="center">A guy with a laptop </h1>-->
 
-<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+guy+with+a+laptop" alt="Typing SVG"></a></p>
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+guy+with+a+laptop" alt="Typing SVG">
+  </a>
+</div>
+
 
 <!-- <h3 align="center">A guy with a laptop </h3> -->
 <img align="right" alt="Coding" width="400" src="https://66.media.tumblr.com/e90102ad4c6a2926402ceb961b7b72eb/tumblr_posit6cYnn1s3olk1o6_540.gif">
