@@ -1,12 +1,22 @@
+<!--[![MasterHead](https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif)](https://rishavchanda.io) -->
+<!-- The masterhead has been removed -->
+<!--<h1 align="center">A guy with a laptop </h1>-->
+
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=A+guy+with+a+laptop" alt="Typing SVG">
   </a>
 </p>
 
+
+
+<!-- <h3 align="center">A guy with a laptop </h3> -->
 <img align="right" alt="Coding" width="400" src="https://66.media.tumblr.com/e90102ad4c6a2926402ceb961b7b72eb/tumblr_posit6cYnn1s3olk1o6_540.gif">
 
 How to reach me **buwaneka10000@gmail.com** <br>
+
+
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -53,4 +63,15 @@ How to reach me **buwaneka10000@gmail.com** <br>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="visual studio" width="40" height="40"/>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFiMWJtcjExM2MzZHhwN29oZmk5YnRxNmxxdGRrNjQwb3ZqZ3U5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1z/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Buwaneka-Vishwajith&show_icons=true&locale=en" alt="Buwaneka-Vishwajith" /></p> -->
+
+
+
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFiMWJtcjExM2MzZHhwN29oZmk5YnRxNmxxdGRrNjQyMG9ucHkydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9tZc9Mzo9K0yOYx38U/giphy.gif">
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Buwaneka-Vishwajith&" alt="Buwaneka-Vishwajith" /></p> --> 
+
+
+
+
