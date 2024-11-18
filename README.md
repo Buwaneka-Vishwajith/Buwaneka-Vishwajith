@@ -14,10 +14,7 @@
 <img align="right" alt="leap of faith" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFiMWJtcjExM2MzZHhwN29oZmk5YnRxNmxxdGRrNjQyMG9ucHkydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9tZc9Mzo9K0yOYx38U/giphy.gif">
 <!--<img align="right" alt="Coding" width="400" src="https://66.media.tumblr.com/e90102ad4c6a2926402ceb961b7b72eb/tumblr_posit6cYnn1s3olk1o6_540.gif"> -->
 
-How to reach me **buwaneka10000@gmail.com** 
-
-
-
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
