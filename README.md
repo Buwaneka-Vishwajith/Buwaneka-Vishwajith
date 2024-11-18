@@ -11,7 +11,7 @@
 
 
 <!-- <h3 align="center">A guy with a laptop </h3> -->
-<img align="right" alt="Coding" width="400" src="https://66.media.tumblr.com/e90102ad4c6a2926402ceb961b7b72eb/tumblr_posit6cYnn1s3olk1o6_540.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://66.media.tumblr.com/e90102ad4c6a2926402ceb961b7b72eb/tumblr_posit6cYnn1s3olk1o6_540.gif">-->
 
 How to reach me **buwaneka10000@gmail.com** <br>
 
