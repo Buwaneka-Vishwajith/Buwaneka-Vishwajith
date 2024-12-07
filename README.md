@@ -60,7 +60,9 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" alt="visual studio" width="30" height="30"/></a>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="visual studio" width="30" height="30"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="visual studio" width="30" height="30"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" alt="visual studio" width="30" height="30"/>
 </p>
+
 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Buwaneka-Vishwajith&show_icons=true&locale=en" alt="Buwaneka-Vishwajith" /></p> -->
