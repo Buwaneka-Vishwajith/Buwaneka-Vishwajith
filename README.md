@@ -37,7 +37,8 @@
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html5" width="30" height="30"/> </a> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="30" height="30"/> </a><a href="https://graphql.org/learn/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="graphql" width="30" height="30"/> </a>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="graphql" width="30" height="30"/> </a><a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="graphql" width="30" height="30"/> </a>
   
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg" alt="illustrator" width="30" height="30"/> </a> 
